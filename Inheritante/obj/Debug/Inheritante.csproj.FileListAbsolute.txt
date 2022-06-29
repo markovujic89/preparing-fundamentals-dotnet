@@ -1,0 +1,7 @@
+D:\Programing\Interview Lerning C#\InterviewLearning\Inheritante\bin\Debug\Inheritante.exe.config
+D:\Programing\Interview Lerning C#\InterviewLearning\Inheritante\bin\Debug\Inheritante.exe
+D:\Programing\Interview Lerning C#\InterviewLearning\Inheritante\bin\Debug\Inheritante.pdb
+D:\Programing\Interview Lerning C#\InterviewLearning\Inheritante\obj\Debug\Inheritante.csproj.AssemblyReference.cache
+D:\Programing\Interview Lerning C#\InterviewLearning\Inheritante\obj\Debug\Inheritante.csproj.CoreCompileInputs.cache
+D:\Programing\Interview Lerning C#\InterviewLearning\Inheritante\obj\Debug\Inheritante.exe
+D:\Programing\Interview Lerning C#\InterviewLearning\Inheritante\obj\Debug\Inheritante.pdb

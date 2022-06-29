@@ -1,0 +1,7 @@
+D:\Programing\Interview Lerning C#\InterviewLearning\InterviewLearning\bin\Debug\InterviewLearning.exe.config
+D:\Programing\Interview Lerning C#\InterviewLearning\InterviewLearning\bin\Debug\InterviewLearning.exe
+D:\Programing\Interview Lerning C#\InterviewLearning\InterviewLearning\bin\Debug\InterviewLearning.pdb
+D:\Programing\Interview Lerning C#\InterviewLearning\InterviewLearning\obj\Debug\InterviewLearning.csproj.AssemblyReference.cache
+D:\Programing\Interview Lerning C#\InterviewLearning\InterviewLearning\obj\Debug\InterviewLearning.csproj.CoreCompileInputs.cache
+D:\Programing\Interview Lerning C#\InterviewLearning\InterviewLearning\obj\Debug\InterviewLearning.exe
+D:\Programing\Interview Lerning C#\InterviewLearning\InterviewLearning\obj\Debug\InterviewLearning.pdb
